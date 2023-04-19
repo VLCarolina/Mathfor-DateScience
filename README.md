@@ -1,2 +1,2 @@
-# Mathfor-DateScience
+# Math-of-dataScience
 Artificial Intelligence
